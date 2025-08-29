@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM mhe_daily

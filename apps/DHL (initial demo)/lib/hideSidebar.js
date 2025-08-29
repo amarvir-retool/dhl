@@ -1,0 +1,1 @@
+sidebarFrame1.setHidden('true')

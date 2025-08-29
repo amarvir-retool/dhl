@@ -1,0 +1,175 @@
+{
+  "button2": {
+    "container": "container3",
+    "subcontainer": "00030",
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container3": {
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "iconText1": {
+    "row": 0.4,
+    "height": 0.6,
+    "width": 2
+  },
+  "select1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select2": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00031",
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select3": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer1": {
+    "container": "container3",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table19": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "height": 8,
+    "width": 12
+  },
+  "table3": {
+    "container": "container3",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 15.6,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table7": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00031",
+    "row": 1.6,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table8": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 1.6,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "text20": {
+    "container": "container3",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.8,
+    "height": 0.6
+  },
+  "text21": {
+    "container": "container3",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 14.4,
+    "height": 0.8,
+    "width": 4
+  },
+  "text5": {
+    "container": "container3",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 10
+  }
+}

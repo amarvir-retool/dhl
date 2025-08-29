@@ -1,0 +1,1 @@
+SELECT * FROM mhe_daily ORDER BY ID LIMIT {{ table9.pagination.limit }} OFFSET {{table9.pagination.offset}};

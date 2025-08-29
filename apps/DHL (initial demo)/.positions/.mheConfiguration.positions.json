@@ -1,0 +1,90 @@
+{
+  "button3": {
+    "container": "container10",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button4": {
+    "container": "container10",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 8,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container10": {
+    "row": 1.2,
+    "height": 60.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "iconText4": {
+    "row": 0.4,
+    "height": 0.6,
+    "width": 2
+  },
+  "table10": {
+    "container": "container10",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 3.8,
+    "height": 16.2,
+    "width": 12
+  },
+  "table11": {
+    "container": "table10",
+    "height": 1,
+    "width": 12
+  },
+  "text19": {
+    "container": "container10",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 7
+  },
+  "textInput2": {
+    "container": "container10",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 2
+  },
+  "textInput3": {
+    "container": "container10",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.8,
+    "col": 2,
+    "height": 0.2,
+    "width": 2
+  }
+}
