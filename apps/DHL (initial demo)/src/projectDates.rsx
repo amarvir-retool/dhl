@@ -81,5 +81,6 @@
         <Include src="./container6.rsx" />
       </View>
     </Container>
+    <Button id="button5" text="Button" />
   </Frame>
 </Screen>
